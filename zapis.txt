@@ -1,0 +1,56 @@
+#Wymiary planszy
+10 10
+#Numer tury
+9
+#Parametry organizmow (gatunek, polozenie(x), polozenie(y), sila, wiek), dla czlowieka dodatkowo (czyAktywnaTarczaAlzura, czasTrwaniaUmiejetnosciSpecjalnej)
+Lis 3 5 6 9
+Wilk 2 9 9 9
+Wilk 9 4 12 9
+Wilk 1 4 9 8
+Wilk 0 2 9 7
+Wilk 3 6 9 6
+Wilk 1 1 9 6
+Wilk 0 4 9 5
+Wilk 3 8 9 5
+Wilk 0 3 9 4
+Wilk 2 6 9 4
+Wilk 2 3 9 4
+Wilk 1 5 9 3
+Wilk 1 2 9 3
+Wilk 2 4 9 2
+Wilk 1 3 9 2
+Wilk 1 0 9 2
+Wilk 2 2 9 1
+Wilk 2 0 9 1
+Wilk 0 5 9 1
+Wilk 0 6 9 1
+Wilk 2 5 9 1
+Wilk 4 3 9 1
+Cyber-Owca 5 3 11 9
+Cyber-Owca 6 1 11 9
+Cyber-Owca 6 3 14 9
+Cyber-Owca 6 4 11 9
+Cyber-Owca 6 2 11 9
+Cyber-Owca 6 8 11 9
+Cyber-Owca 6 7 11 9
+Cyber-Owca 5 7 11 9
+Czlowiek 9 2 5 4 false -2
+Cyber-Owca 5 4 11 1
+Zolw 1 8 2 9
+Zolw 0 8 2 9
+Wilcze Jagody 1 9 99 9
+Trawa 5 0 0 9
+Trawa 4 0 0 8
+Trawa 3 0 0 6
+Trawa 8 2 0 3
+Wilk 0 1 9 0
+Wilk 3 4 9 0
+Wilk 1 6 9 0
+Wilk 3 1 9 0
+Wilk 0 7 9 0
+Wilk 2 7 9 0
+Cyber-Owca 5 2 11 0
+Cyber-Owca 6 5 11 0
+Cyber-Owca 7 2 11 0
+Cyber-Owca 5 8 11 0
+Cyber-Owca 4 4 11 0
