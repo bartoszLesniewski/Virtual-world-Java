@@ -1,2 +1,2 @@
 # Virtual world Java
-The implementation of virtual world simulator in Java.
+The implementation of virtual world simulator in Java. It is based on the previous project written in C++ and have the same rules (for a full description look at README file in [Virtual World CPP](https://github.com/l-bartek/Virtual-world-cpp). This time UI is created using Swing. Application functionalities (transition to the next turn, saving and loading game state) are realized by components from the GUI library.
